@@ -2,7 +2,7 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
-  base: '/guitarla-vue/', // ⭐ IMPORTANTE
+  base: '/guitarla-vue/', //  IMPORTANTE
   plugins: [vue()],
 })
 
@@ -15,4 +15,4 @@ export default defineConfig({
 //  plugins: [vue()],
 //}) 
 
-//https://github.com/miguel-dev006/guitarla-vue.git
+//https://miguel-dev006.github.io/guitarla-vue/
